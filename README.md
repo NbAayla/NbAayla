@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Aayla, a 20 year old non-binary Python and web developer. I'm a computer science and economics student at Metro State in Denver and my pronouns are [they/them](pronoun.is/they).
+I'm Aayla, a 20 year old non-binary Python and web developer. I'm a computer science and economics student at Metro State in Denver and my pronouns are [they/them](https://pronoun.is/they).
 
 I'm currently working on an [video editor based on OpenCV](https://github.com/aaylafetzer/CppVideoTool).
 
