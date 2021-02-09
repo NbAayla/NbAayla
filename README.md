@@ -1,6 +1,8 @@
 ### Hi there 👋
 I'm Aayla, a 20 year old non-binary Python and web developer. I'm currently the Script & Web Developer for the [Socialist Rifle Association](https://socialistra.org/leadership/#aayla) and my pronouns are [they/them](https://pronoun.is/they/.../themself).
 
+My commits are signed with [this public key](https://static.aayla.dev/web/key.pub).
+
 <!-- I'm currently working on an [video editor based on OpenCV](https://github.com/aaylafetzer/CppVideoTool). -->
 
 <!--
