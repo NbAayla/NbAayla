@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Aayla, a 20 year old Python, Rust, and web developer. I'm currently the Script & Web Developer for the [Socialist Rifle Association](https://socialistra.org/leadership/#aayla) and my pronouns are [she/her](https://pronoun.is/she).
+I'm Aayla, a 20 year old Python, Rust, and web developer. I'm learning Haskell, I'm the Script & Web Developer for the [Socialist Rifle Association](https://socialistra.org/leadership/#aayla), and my pronouns are [she/her](https://pronoun.is/she).
 
 My commits are signed with [this public key](https://static.aayla.dev/web/key.pub).
 
